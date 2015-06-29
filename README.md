@@ -1,4 +1,5 @@
 
+
 ===================
 About Project Jebr
 ===================
@@ -28,10 +29,10 @@ The project is considered to be the first domain-specific programming language d
 System Requirments
 ===================
 
--x86 Debian Linux-Based Machine
--gcc,g++ & build-utils installed
--java version 7 jdk or openjdk 1.7
--sudo permissions
+- x86 Debian Linux-Based Machine
+- gcc,g++ & build-utils installed
+- java version 7 jdk or openjdk 1.7
+- sudo permissions
 
 ====================
  IMPORTANT NOTICE
@@ -42,32 +43,31 @@ NOTE: The code might not compile due to file systems, if tha happens tell us, an
 ====================
    How to Setup
 ====================
--grant sudu privelleges 
-		in bash: $ sudo -s
--grant the script an executing permission
-		in bash: $ chmod a+x /absoloute/path/to/script
--run the installer script
-		in bash: $ ./absolute/path/to/file
+- grant sudu privelleges 
+		 in bash: ` $ sudo -s `
+- grant the script an executing permission
+		 in bash: ` $ chmod a+x /absoloute/path/to/script `
+- run the installer script
+		 in bash: ` $ ./absolute/path/to/file `
 
 ===================
     How to Run
 ===================
--in terminal, try: $ jide
+- in terminal, try: $ jide
 
--if that didn't work use java -jar /absolute/path/to/jide/jar/file
+- if that didn't work use: ` java -jar /absolute/path/to/jide/jar/file `
 
 ===================
 Source Compilation
 ===================
  Most of the program can be compiled with any java compiler.
-you can obtain the source code from http://jebr.org
-or https://github.com/geekybedouin/project_jebr
+you can obtain the source code from [Jebr.org](http://jebr.org)
+or the [Github Repository](https://github.com/geekybedouin/project_jebr).
 
 ===================
    Contribution
 ===================
-If you want to addup to the project, feel free to fork us on github:
-https://github.com/geekybedouin/project_jebr 
+If you want to addup to the project, feel free to fork our [Github repository](https://github.com/geekybedouin/project_jebr).
 
 
 
