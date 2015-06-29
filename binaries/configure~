@@ -1,0 +1,25 @@
+#!/bin/bash
+echo "#################################################"
+echo "#######SETTING UP THE JIDE ENVIRONMENT###########"
+echo "#######NOTE: Do NOT CLOSE WHILE WORKING#########"
+echo "#################################################"
+echo ""
+echo "come visit it us on: http://jebr.org"
+echo ""
+echo ""
+echo ""
+echo "Please enter your password: "
+
+sudo cp -r BakIDE /
+sudo chmod a+wr -R /BakIDE
+sudo cp -r ./.jide_1.04 $HOME/
+sudo chmod a+rw -R ~/.jide_1.04
+sudo cp jide /bin/jide
+sudo chmod a+x /bin/jide
+
+
+echo "#################################################"
+echo "##################FINISHED#######################"
+echo "#################################################"
+
+

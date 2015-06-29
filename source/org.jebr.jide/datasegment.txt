@@ -1,0 +1,5 @@
+
+.data
+
+x:  .word     5
+u:  .word     7

@@ -1,0 +1,23 @@
+token     spelling     type      line
+x           x      identifier     1
+:=  assignment equal  operator    1
+integer   integer    keyword      1
+5           5          number     1
+;         semicolon   operator    1
+u           u      identifier     3
+:=  assignment equal  operator    3
+integer   integer    keyword      3
+7           7          number     3
+;         semicolon   operator    3
+x           x      identifier     5
+=          equal      operator    5
+x           x      identifier     5
++          plus       operator    5
+u           u      identifier     5
+;         semicolon   operator    5
+x           x      identifier     6
+=          equal      operator    6
+x           x      identifier     6
++          plus       operator    6
+u           u      identifier     6
+;         semicolon   operator    6
