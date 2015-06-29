@@ -1,6 +1,6 @@
 
 ===================
-About
+About Project Jebr
 ===================
 Jebr is a static, imperative, object-oriented and domain-specific programming language that supports linear-algebra oriented operations and matrix manipulation to allow users to solve mathematical issues using programming logic. The language supports multiple programming paradigms and the WORA “Write Once, Run Anywhere” ideology.
 
