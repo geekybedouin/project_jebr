@@ -1,5 +1,3 @@
-
-
 ===================
 About Project Jebr
 ===================
@@ -10,7 +8,7 @@ Jebr difference from other linear-algebra-oriented programming languages springs
 The project is considered to be the first domain-specific programming language developed entirely by An-Najah National University students. It is intended to serve in many fields; as a programming language to help students solving linear algebra problems through programming logic, as well as an example for them to analyze and develop in both “Programming Languages” and “Compiler Design” courses.
 
 ===================
- Project License
+###Project License
 ===================
     Created By: 'Umar A.Abu Baker, Fahed N.Shehab <http://www.geekybedouin.com>, <>
     Copyright (c) 2014 'Umar A.Abu Baker and Fahed N.Shehab <umr.baker@gmail.com>, <fahed.shehab@gmail.com>
@@ -26,7 +24,7 @@ The project is considered to be the first domain-specific programming language d
     along with this program. If not, see <http://www.gnu.org/licenses/gpl-3.0.txt>.
 
 ===================
-System Requirments
+###System Requirments
 ===================
 
 - x86 Debian Linux-Based Machine
@@ -35,13 +33,13 @@ System Requirments
 - sudo permissions
 
 ====================
- IMPORTANT NOTICE
+###IMPORTANT NOTICE
 ====================
 NOTE: The code might not compile due to file systems, if tha happens tell us, and we will be more than happy to fix the issue..
 
 
 ====================
-   How to Setup
+###How to Setup
 ====================
 - grant sudu privelleges 
 		 in bash: ` $ sudo -s `
@@ -51,21 +49,21 @@ NOTE: The code might not compile due to file systems, if tha happens tell us, an
 		 in bash: ` $ ./absolute/path/to/file `
 
 ===================
-    How to Run
+###How to Run
 ===================
 - in terminal, try: $ jide
 
 - if that didn't work use: ` java -jar /absolute/path/to/jide/jar/file `
 
 ===================
-Source Compilation
+###Source Compilation
 ===================
  Most of the program can be compiled with any java compiler.
 you can obtain the source code from [Jebr.org](http://jebr.org)
 or the [Github Repository](https://github.com/geekybedouin/project_jebr).
 
 ===================
-   Contribution
+###Contribution
 ===================
 If you want to addup to the project, feel free to fork our [Github repository](https://github.com/geekybedouin/project_jebr).
 
